@@ -1,5 +1,5 @@
 
-## 🚀 Aspiring System Architect | 💻 Backend Development Enthusiast
+## 🚀 Aspiring to become Software Engineer
 
 🔍 Actively Seeking Internship Opportunities
 
