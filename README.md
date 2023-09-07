@@ -35,3 +35,16 @@
 ---
 
 **🌐 Let's connect and explore exciting opportunities in the world of software development! Feel free to reach out.**
+
+## Explore My Repositories
+
+Here are some of my noteworthy repositories that you might find interesting:
+
+### [Crowd-Reviews](https://github.com/chintald/Crowd-Reviews)
+🚀 Notable development using GraphQL, JWT, and PostgreSQL. Customized middleware extensively. A must-see!
+
+### [microservice-cookie-cutter](https://github.com/chintald/microservice-cookie-cutter)
+🍪 A utility repo that deploys boilerplate for any Python-based microservice quickly.
+
+Feel free to explore these repositories and dive into the code. If you have any questions or feedback, don't hesitate to reach out! Let's connect and discuss exciting opportunities in the world of software development.
+
