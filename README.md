@@ -1,7 +1,7 @@
 
-## 🚀 Aspiring to become Software Engineer
+## 🚀 Aspiring to solve real-world problems
 
-🔍 Actively Seeking Internship Opportunities
+🔍 Actively Seeking Full-Time Opportunities
 
 📧 Feel free to reach out: chintaldraval@gmail.com | [LinkedIn](https://www.linkedin.com/in/chintalraval63/)
 
@@ -15,22 +15,23 @@
 
 
 
-🤝 Let's Connect: I'm excited to connect with fellow tech enthusiasts, industry professionals, and potential collaborators. If you're seeking a dedicated intern with a thirst for innovation and a passion for problem-solving, let's chat!
+🤝 Let's Connect: I'm excited to connect with fellow tech enthusiasts, industry professionals, and potential collaborators. If you're seeking a dedicated professional with a thirst for innovation and a passion for problem-solving, let's chat!
 
 ---
 
 ## Tech Stack
 
-🚀 **Languages:** Java, Python, JavaScript
-🌟 **Frameworks:** React, Express.js, Django, Flask, FAST API
-🛠 **Technologies:** Docker, REST API, GraphQL
-🧰 **Databases:** PostgreSQL, MySQL, MongoDB
+🚀 **Languages:** Java, Python, React, Node.js, C#
+🌟 **Frameworks:** React, Spring Boot, Express.js, Django, Flask, FAST API, Selenium
+🛠 **Technologies:** Git, GitHub, Bitbucket, Jira, Confluence, Bash/Shell Scripting, Mainframe, AWS
+🧰 **Databases:** PostgreSQL, MySQL, MongoDB, Oracl RDS
 
 
 ## Achievements
 
-- Received an invitation to present the **StrumMate** project on Demo Day in April 2023 at the University of Windsor.
-- Received approval from a Professor to publish a research paper on **Supply Chain Management in Dairy Products** using **Hyperledger Fabric** in the first week of August 2023.
+- Delivered measurable impact by saving **1,189** manual work hours and increasing automation coverage by **25%** through
+process optimization using Java, SQL, Cucumber, and Jenkins
+- Nominated for the University of Windsor's rising star award for unique contributions during the internship
 
 ---
 
