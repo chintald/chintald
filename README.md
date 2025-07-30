@@ -1,7 +1,6 @@
 
 ## 🚀 Aspiring to solve real-world problems
 
-🔍 Actively Seeking Full-Time Opportunities
 
 📧 Feel free to reach out: chintaldraval@gmail.com | [LinkedIn](https://www.linkedin.com/in/chintalraval63/)
 
